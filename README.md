@@ -1,1 +1,1 @@
-# iNeuron_FSDS_Bootcamp_Assignment
+# iNeuron-FSDS-Bootcamp-Assignment
